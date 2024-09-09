@@ -22,6 +22,8 @@ const AppContainer = styled.div`
   background-color: #1b1b1b;
   color: #fff;
   min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
   position: relative
 `;
 
