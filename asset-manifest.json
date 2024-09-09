@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RCTCardlePage/static/css/main.e6c13ad2.css",
-    "main.js": "/RCTCardlePage/static/js/main.30d7c8bb.js",
-    "static/js/453.dffbaea2.chunk.js": "/RCTCardlePage/static/js/453.dffbaea2.chunk.js",
-    "index.html": "/RCTCardlePage/index.html",
-    "main.e6c13ad2.css.map": "/RCTCardlePage/static/css/main.e6c13ad2.css.map",
-    "main.30d7c8bb.js.map": "/RCTCardlePage/static/js/main.30d7c8bb.js.map",
-    "453.dffbaea2.chunk.js.map": "/RCTCardlePage/static/js/453.dffbaea2.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.6cfec8b2.js",
+    "static/js/453.dffbaea2.chunk.js": "/static/js/453.dffbaea2.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.6cfec8b2.js.map": "/static/js/main.6cfec8b2.js.map",
+    "453.dffbaea2.chunk.js.map": "/static/js/453.dffbaea2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.30d7c8bb.js"
+    "static/js/main.6cfec8b2.js"
   ]
 }
